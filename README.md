@@ -1,9 +1,3 @@
-# Street Vehicle Detection using YOLO11
-
-A custom object detection project that detects and classifies **motorbikes, rickshaws, cars and people** in City street images and video, using a YOLO11 model trained on a self-collected and self-annotated dataset.
-
----
-
 ## 1. Project Title
 City Street Vehicle Detection using YOLO11
 
